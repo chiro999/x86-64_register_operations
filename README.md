@@ -31,6 +31,7 @@
     Used for more advanced multimedia, scientific computing, and other tasks requiring higher parallelism.
 
 #ZMM Registers:
+
     Exclusive to Intel CPU's from Skylake-X(HEDT) and beyond.Recently became available on Ryzen 7000. 
     Introduced with AVX-512, ZMM registers are 512 bits wide and further extend the SIMD capabilities.
     ZMM registers offer even higher parallelism and are used in high-performance computing (HPC), machine learning, and scientific simulations.
